@@ -9,7 +9,7 @@ I'm in the social medias with @euonael.<p>
 <a href="https://www.linkedin.com/in/naelpontes/" target="_blank">LinkediN</a>
 
   <h3>Languages</h3>
-<img src="https://github.com/euonael/euonael/assets/95258490/3e51ed0a-4222-4202-b88e-c5b68e53e921" widith=100px height=100px;>
+<img src="https://github.com/euonael/euonael/assets/95258490/3e51ed0a-4222-4202-b88e-c5b68e53e921" widith=75px height=75px;>
  
   <h3>Used more</h3>
 <img src="https://github.com/euonael/euonael/assets/95258490/75713a0d-96df-4272-aa78-011fe2073351" >
