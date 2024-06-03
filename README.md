@@ -1,14 +1,15 @@
 <h1>Hi there! 😃</h1>
 
-<p>Hi, i'm Nathanael, i am a dev passionate about technology!
-This is my space where i spend most of my time. For me imagination and creativity become code.
+<p>Hi, wellcome.
+I'm Nathanael, i am a dev passionate about technology!
+ This is my space where i spend most of my time. 
 I'm in the social medias with @euonael.<p>
 
   <h2>Contact me:</h2>
 <a href="https://www.instagram.com/euonael/" target="_blank">Instagram</a>
 <a href="https://www.linkedin.com/in/naelpontes/" target="_blank">LinkediN</a>
 
-  <h3>Languages</h3>
+  <h3>I'm learning and work with</h3>
 <img src="https://github.com/euonael/euonael/assets/95258490/3e51ed0a-4222-4202-b88e-c5b68e53e921" widith=75px height=75px;>
  
   <h3>Used more</h3>
