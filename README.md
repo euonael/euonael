@@ -1,6 +1,6 @@
 <h1>Hi there! 😃</h1>
 
-<p>Hi, wellcome.
+<p>Hi, welcome.
 I'm Nathanael, i am a dev passionate about technology!
  This is my space where i spend most of my time. 
 I'm in the social medias with @euonael.<p>
