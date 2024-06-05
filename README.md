@@ -13,7 +13,7 @@ I'm in the social medias with @euonael.<p>
 <img src="https://github.com/euonael/euonael/assets/95258490/741e7245-90f0-4cf4-9316-4b49e490f1bb" widith=75px height=75px;> 
  
   <h3>In Projects</h3>
-<img src="https://github.com/euonael/euonael/assets/95258490/51f13d5a-6a2d-4fb3-a9dc-17059c8c4207">
+<img src="https://github.com/euonael/euonael/assets/95258490/51d8e9bb-acfb-44e2-a860-b90bb4d40f09">
 
 <!--
 **euonael/euonael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
