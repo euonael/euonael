@@ -10,10 +10,14 @@ I'm in the social medias with @euonael.<p>
 <a href="https://www.linkedin.com/in/naelpontes/" target="_blank">LinkediN</a>
 
   <h3>I'm learning and work with</h3>
+  
+
 <img src="https://github.com/euonael/euonael/assets/95258490/3e51ed0a-4222-4202-b88e-c5b68e53e921" widith=75px height=75px;>
  
-  <h3>Used more</h3>
-<img src="https://github.com/euonael/euonael/assets/95258490/75713a0d-96df-4272-aa78-011fe2073351" >
+ 
+  <h3>In Projects</h3>
+ 
+<img src="https://github.com/euonael/euonael/assets/95258490/51f13d5a-6a2d-4fb3-a9dc-17059c8c4207">
 
 <!--
 **euonael/euonael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
