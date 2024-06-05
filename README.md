@@ -10,13 +10,9 @@ I'm in the social medias with @euonael.<p>
 <a href="https://www.linkedin.com/in/naelpontes/" target="_blank">LinkediN</a>
 
   <h3>I'm learning and work with</h3>
-  
-
-<img src="https://github.com/euonael/euonael/assets/95258490/3e51ed0a-4222-4202-b88e-c5b68e53e921" widith=75px height=75px;>
- 
+<img src="https://github.com/euonael/euonael/assets/95258490/741e7245-90f0-4cf4-9316-4b49e490f1bb" widith=75px height=75px;> 
  
   <h3>In Projects</h3>
- 
 <img src="https://github.com/euonael/euonael/assets/95258490/51f13d5a-6a2d-4fb3-a9dc-17059c8c4207">
 
 <!--
