@@ -1,30 +1,41 @@
-<h1>Hi there! 😃</h1>
-<p>Hi, welcome.
-I'm Nathanael, i am a dev passionate about technology!
- This is my space where i spend most of my time. 
-I'm in the social medias with @euonael.<p>
-<hr>
-  <h2>Contact me:</h2>
-<a href="https://www.instagram.com/euonael/" target="_blank"><img src="https://github.com/euonael/euonael/assets/95258490/a8fe6423-dd87-40c8-bd9f-cb7294c32639" widith=40px height=30px></a>
-<a href="https://www.linkedin.com/in/naelpontes/" target="_blank"><img src="https://github.com/euonael/euonael/assets/95258490/900873aa-21a7-411e-9574-be2c2aee7bd2" widith=40px height=30px></a>
+# Olá, eu sou [Seu Nome]! 👋
 
-  <h3>I'm learning and work with</h3>
-<img src="https://github.com/euonael/euonael/assets/95258490/741e7245-90f0-4cf4-9316-4b49e490f1bb" widith=75px height=50px;> 
- 
-  <h3>In Projects</h3>
-<img src="https://github.com/euonael/euonael/assets/95258490/51d8e9bb-acfb-44e2-a860-b90bb4d40f09">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/naelpontes/)](https://www.linkedin.com/in/naelpontes/)
+[![GitHub](https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=github&logoColor=white&link=https://github.com/euonael)](https://github.com/euonael)
+[![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square&logo=instagram&logoColor=white&link=mailto:seu-email@example.com)](https://www.instagram.com/euonael/)
 
-<!--
-**euonael/euonael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Sou um desenvolvedor apaixonado por tecnologia e inovação. Tenho experiência em diversas áreas da programação e sou sempre curioso para aprender mais.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Atualmente estou aprendendo **HTML, CSS, JavaScript, React**
+- 📫 Como me encontrar: **naelpontesnathan@gmail.com**
+- ⚡ Curiosidade: **Também sou músico nas horas vagas.**
+
+## Habilidades
+
+- **Linguagens de Programação**: Python, JS
+- **Frameworks e Bibliotecas**: React, HTML
+- **Ferramentas e Tecnologias**: GIT
+
+## Projetos Destacados
+
+### [Projeto Riot](https://euonael.github.io/Riot-site/)
+Este projeto é um site interativo desenvolvido com HTML, CSS e JavaScript, que apresenta quatro jogos diferentes da mesma empresa em um formato de slides. Cada slide oferece informações básicas sobre o jogo exibido, além de links para jogar ou obter mais informações.
+
+### [Selection](https://euonael.github.io/FP-Selection/)
+Esse projeto é um site interativo de mostruário de veiculos desenvolvido com HTML, CSS e JavaScript com animações interativas e um design diferente.
+
+### [Meu portifólio](https://euonael.github.io/euonael/)
+Esse é um projeto mais simples criado no intuito de me apresentar e mostrar minhas habilidades.
+
+## Estatísticas do GitHub
+
+![Suas estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=euonael&show_icons=true&theme=radical)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=euonael&layout=compact&theme=radical)
+
+## Entre em Contato
+
+- LinkedIn: [Nathanael Pontes](https://www.linkedin.com/in/naelpontes/)
+- Instagram: [euonael](https://www.instagram.com/euonael/)
+
